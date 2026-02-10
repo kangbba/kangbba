@@ -35,4 +35,4 @@ Web development stack
 
 IoT & embedded systems (Arduino, ESP-IDF, ESP-ADF)
 
-![snake gif](https://github.com/[username]/[username]/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/kangbba/kangbba/blob/output/github-contribution-grid-snake.svg)
