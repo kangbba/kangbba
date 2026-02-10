@@ -6,6 +6,9 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![UniRx](https://img.shields.io/badge/UniRx-FF6B9D?style=for-the-badge&logo=reactivex&logoColor=white)
+![UniTask](https://img.shields.io/badge/UniTask-00D9FF?style=for-the-badge&logo=dotnet&logoColor=white)
+![DOTween](https://img.shields.io/badge/DOTween-4CAF50?style=for-the-badge&logo=unity&logoColor=white)
 
 Game development with Unity and WebGL builds
 
@@ -20,7 +23,7 @@ Game development with Unity and WebGL builds
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-Android native & cross-platform mobile development
+Android native & cross-platform development (mobile, web, desktop)
 
 ---
 
@@ -50,14 +53,9 @@ Hardware projects with Arduino & ESP32
 ---
 
 ## ☁️ Cloud Services
-**Comfortable with**
-
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Umami](https://img.shields.io/badge/Umami-000000?style=for-the-badge&logo=umami&logoColor=white)
-
-**Briefly explored**
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
