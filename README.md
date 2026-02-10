@@ -26,7 +26,9 @@ Android native apps & cross-platform mobile development
 Web development stack
 
 ---
-
 ## 🔧 Also Tinkered With
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP-ADF](https://img.shields.io/badge/ESP--ADF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+IoT & embedded systems (Arduino, ESP-IDF, ESP-ADF)
