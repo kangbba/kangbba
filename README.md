@@ -6,7 +6,8 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![UniRx](https://img.shields.io/badge/UniRx-FF6B9D?style=for-the-badge&logo=reactivex&logoColor=white)
+
+**Unity Libraries:** ![UniRx](https://img.shields.io/badge/UniRx-FF6B9D?style=for-the-badge&logo=reactivex&logoColor=white)
 ![UniTask](https://img.shields.io/badge/UniTask-00D9FF?style=for-the-badge&logo=dotnet&logoColor=white)
 ![DOTween](https://img.shields.io/badge/DOTween-4CAF50?style=for-the-badge&logo=unity&logoColor=white)
 
