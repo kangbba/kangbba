@@ -34,3 +34,5 @@ Web development stack
 ![ESP-ADF](https://img.shields.io/badge/ESP--ADF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 IoT & embedded systems (Arduino, ESP-IDF, ESP-ADF)
+
+![snake gif](https://github.com/[username]/[username]/blob/output/github-contribution-grid-snake.svg)
