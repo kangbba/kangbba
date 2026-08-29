@@ -8,7 +8,7 @@ Game & Software Developer. Unity, mobile, and web. Based in Seoul, working remot
   - 🇫🇷 Homa Games
   - 🇵🇱 BoomBit
   - 🇺🇸 Lion Studios
-  - 🇰🇷 SuperCent
+  - 🇰🇷 Supercent
 - Solo-developed **The Secret Of Greenwood Isle**, a story adventure, over one year and released it on Steam and STOVE
 - Currently building and running **Modu Dining**, a live multilingual restaurant menu service with an LLM translation pipeline
 
