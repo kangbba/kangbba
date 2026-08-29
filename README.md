@@ -2,12 +2,13 @@
 
 Game & Software Developer. Unity, mobile, and web. Based in Seoul, working remote.
 
-- 30+ mobile titles shipped with five publishers (2019~2022):
+- 30+ mobile titles shipped with six publishers (2019~2022):
   - 🇫🇷 Voodoo
   - 🇻🇳 Amanotes
   - 🇫🇷 Homa Games
   - 🇵🇱 BoomBit
   - 🇺🇸 Lion Studios
+  - 🇰🇷 SuperCent
 - Solo-developed **The Secret Of Greenwood Isle**, a story adventure, over one year and released it on Steam and STOVE
 - Currently building and running **Modu Dining**, a live multilingual restaurant menu service with an LLM translation pipeline
 
