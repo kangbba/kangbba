@@ -21,7 +21,7 @@ Portfolio, including a WebGL game you can play right in the browser: **[develope
 
 Most of my shipped work is under publisher contracts or commercial releases, so those sources stay private. The public part lives in these two repositories:
 
-- [greenwood-isle](https://github.com/kangbba/greenwood-isle): story engine excerpts from my Steam release. Composite element system on UniTask, deterministic skip and save-restore.
+- [greenwood-isle](https://github.com/kangbba/greenwood-isle): story engine and UI widget excerpts from my Steam release. Composite elements on UniTask, dependency-injected engine seams, idempotent reactive widgets.
 - [slot-defense-unity](https://github.com/kangbba/slot-defense-unity): full source snapshot of a released mobile game (ONE Store), playable as WebGL on my portfolio site.
 - [bangawer-voice-translator](https://github.com/kangbba/bangawer-voice-translator) + [talktalk-wifi-app](https://github.com/kangbba/talktalk-wifi-app): a custom ESP32 translator device and its Flutter app. BLE chunked audio streaming, ESP-ADF pipelines, stream-based device layer.
 
