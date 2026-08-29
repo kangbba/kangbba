@@ -1,8 +1,13 @@
-# Jinhyung Kang · Sayne
+# Jin Hyung Kang · Sayne
 
 Game & Software Developer. Unity, mobile, and web. Based in Seoul, working remote.
 
-- 30+ mobile titles shipped with five publishers (2019~2022): 🇫🇷 Voodoo, 🇫🇷 Homa Games, 🇵🇱 BoomBit, 🇺🇸 Lion Studios, 🇻🇳 Amanotes
+- 30+ mobile titles shipped with five publishers (2019~2022):
+  - 🇫🇷 Voodoo
+  - 🇻🇳 Amanotes
+  - 🇫🇷 Homa Games
+  - 🇵🇱 BoomBit
+  - 🇺🇸 Lion Studios
 - Solo-developed a story game for a year and released it on Steam and STOVE
 - Currently running a live web service with a LLM pipeline
 
@@ -22,7 +27,7 @@ Portfolio, including a WebGL game you can play right in the browser: **[develope
 Most of my shipped work is under publisher contracts or commercial releases, so those sources stay private. The public part lives in these repositories:
 
 - [greenwood-isle](https://github.com/kangbba/greenwood-isle): story engine and UI widget excerpts from my Steam release. Composite elements on UniTask, dependency-injected engine seams, idempotent reactive widgets.
-- [slot-defense-unity](https://github.com/kangbba/slot-defense-unity): full source snapshot of a released mobile game (ONE Store), playable as WebGL on my portfolio site.
+- [hell-keeper-public](https://github.com/kangbba/hell-keeper-public): script source of a released mobile game (ONE Store), art/audio assets excluded, playable as WebGL on my portfolio site.
 - [bangawer-voice-translator](https://github.com/kangbba/bangawer-voice-translator): a custom ESP32 translator device with its Flutter app in one repo. BLE chunked audio streaming, ESP-ADF pipelines, stream-based app layer.
 
 ## Stack
