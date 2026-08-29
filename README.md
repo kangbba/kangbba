@@ -19,9 +19,9 @@ Portfolio, including a WebGL game you can play right in the browser: **[develope
 
 ## Code
 
-Most of my shipped work is under publisher contracts or commercial releases, so those sources stay private. Curated public code lives here:
+Most of my shipped work is under publisher contracts or commercial releases, so those sources stay private. The public part lives in these two repositories:
 
-- [unity-code-showcase](https://github.com/kangbba/unity-code-showcase): selected systems from a shipped game. UniTask phase machine, UniRx reactive timer, DOTween UI, abstract hero system.
+- [greenwood-isle](https://github.com/kangbba/greenwood-isle): story engine excerpts from my Steam release. Composite element system on UniTask, deterministic skip and save-restore.
 - [slot-defense-unity](https://github.com/kangbba/slot-defense-unity): full source snapshot of a released mobile game (ONE Store), playable as WebGL on my portfolio site.
 
 ## Stack
