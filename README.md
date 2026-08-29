@@ -2,7 +2,7 @@
 
 Game & Software Developer. Unity, mobile, and web. Based in Seoul, working remote.
 
-- 30+ mobile titles shipped with six publishers (2019~2022):
+- 30+ mobile titles shipped with six publishers (2019~2025):
   - 🇫🇷 Voodoo
   - 🇻🇳 Amanotes
   - 🇫🇷 Homa Games
