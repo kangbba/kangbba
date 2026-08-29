@@ -34,7 +34,7 @@ Most of my shipped work is under publisher contracts or commercial releases, so 
 
 ## Stack
 
-- **Games**: Unity, C#, UniRx, UniTask, DOTween, WebGL builds
+- **Games**: Unity, C#, UniRx, UniTask, DOTween. Ships to Android, iOS, PC and WebGL
 - **Mobile**: Android (Java/Kotlin), Flutter. Release ops on App Store Connect, Google Play Console, Steamworks
 - **Web**: Next.js, TypeScript, Tailwind, Supabase, Vercel
 - **Hardware**: Arduino, ESP32 (ESP-IDF, ESP-ADF)
