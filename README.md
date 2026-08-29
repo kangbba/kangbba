@@ -23,6 +23,7 @@ Most of my shipped work is under publisher contracts or commercial releases, so 
 
 - [greenwood-isle](https://github.com/kangbba/greenwood-isle): story engine excerpts from my Steam release. Composite element system on UniTask, deterministic skip and save-restore.
 - [slot-defense-unity](https://github.com/kangbba/slot-defense-unity): full source snapshot of a released mobile game (ONE Store), playable as WebGL on my portfolio site.
+- [bangawer-voice-translator](https://github.com/kangbba/bangawer-voice-translator) + [talktalk-wifi-app](https://github.com/kangbba/talktalk-wifi-app): a custom ESP32 translator device and its Flutter app. BLE chunked audio streaming, ESP-ADF pipelines, stream-based device layer.
 
 ## Stack
 
