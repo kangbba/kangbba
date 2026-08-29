@@ -1,4 +1,4 @@
-# Jin Hyung Kang · Sayne
+# Jin Hyung KANG (aka Sayne)
 
 Game & Software Developer. Unity, mobile, and web. Based in Seoul, working remote.
 
@@ -8,8 +8,8 @@ Game & Software Developer. Unity, mobile, and web. Based in Seoul, working remot
   - 🇫🇷 Homa Games
   - 🇵🇱 BoomBit
   - 🇺🇸 Lion Studios
-- Solo-developed a story game for a year and released it on Steam and STOVE
-- Currently running a live web service with a LLM pipeline
+- Solo-developed **The Secret Of Greenwood Isle**, a story adventure, over one year and released it on Steam and STOVE
+- Currently building and running **Modu Dining**, a live multilingual restaurant menu service with an LLM translation pipeline
 
 Portfolio, including a WebGL game you can play right in the browser: **[developersayne.dev](https://developersayne.dev)**
 
@@ -20,7 +20,7 @@ Portfolio, including a WebGL game you can play right in the browser: **[develope
 | **Demolding 3D** | 2020 | Development lead. Published by Homa Games. 2M+ estimated downloads (AppMagic). |
 | **K-Games 3D** | 2021 | Development lead. Published by BoomBit. CPI under $0.05 in testing. |
 | **The Secret Of Greenwood Isle** | 2025~26 | Solo development, one year. Released on [Steam](https://store.steampowered.com/app/3790450/The_Secret_Of_Greenwood_Isle/) and STOVE. |
-| **modudining** | 2026~ | Live restaurant web service. Next.js, Supabase, LLM pipeline. [modudining.com](https://www.modudining.com) |
+| **Modu Dining** | 2026~ | Live restaurant web service. Next.js, Supabase, LLM pipeline. [modudining.com](https://www.modudining.com) |
 
 ## Code
 
