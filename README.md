@@ -14,24 +14,15 @@ Game & Software Developer. Unity, mobile, and web. Based in Seoul, working remot
 
 Portfolio, including a WebGL game you can play right in the browser: **[developersayne.dev](https://developersayne.dev)**
 
-<p align="center">
-  <a href="https://store.steampowered.com/app/3790450/The_Secret_Of_Greenwood_Isle/"><img src="images/greenwood.png" height="120" /></a>
-  <a href="https://developersayne.dev"><img src="images/hell-keeper.png" height="120" /></a>
-  <a href="https://www.modudining.com"><img src="images/modu-dining.png" height="120" /></a>
-  <a href="https://developersayne.dev"><img src="images/mobile-games.png" height="120" /></a>
-</p>
-<p align="center">
-  <sub>The Secret Of Greenwood Isle · Hell Keeper · Modu Dining · publisher titles</sub>
-</p>
 
 ## Selected work
 
-| Project | Year | What it is |
-|---|---|---|
-| **Demolding 3D** | 2020 | Development lead. Published by Homa Games. 2M+ estimated downloads (AppMagic). |
-| **K-Games 3D** | 2021 | Development lead. Published by BoomHits. CPI $0.03 in testing. |
-| **The Secret Of Greenwood Isle** | 2025~26 | Solo development, one year. Released on [Steam](https://store.steampowered.com/app/3790450/The_Secret_Of_Greenwood_Isle/) and STOVE. |
-| **Modu Dining** | 2026~ | Live restaurant web service. Next.js, Supabase, LLM pipeline. [modudining.com](https://www.modudining.com) |
+| | |
+|---|---|
+| <img src="images/greenwood.png" width="300" /> | **The Secret Of Greenwood Isle** · 2025~26<br/>Story adventure, solo development over one year. Released on [Steam](https://store.steampowered.com/app/3790450/The_Secret_Of_Greenwood_Isle/) and STOVE. |
+| <img src="images/modu-dining.png" width="300" /> | **Modu Dining** · 2026~<br/>Live multilingual menu service for restaurants. Next.js, Supabase, LLM translation pipeline. [modudining.com](https://www.modudining.com) |
+| <img src="images/hell-keeper.png" width="300" /> | **Hell Keeper** · 2025<br/>Slot-defense mobile game, solo. Released on ONE Store, [playable in the browser](https://developersayne.dev). |
+| <img src="images/mobile-games.png" width="300" /> | **Publisher titles** · 2019~2025<br/>30+ mobile games under contract. Development lead on Demolding 3D (Homa Games, 2M+ estimated downloads) and K-Games 3D (BoomHits, CPI $0.03). |
 
 ## Code
 
