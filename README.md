@@ -25,20 +25,13 @@ Portfolio, including a WebGL game you can play right in the browser: **[develope
 | **The Secret Of Greenwood Isle** | 2025~26 | Solo development, one year. Released on [Steam](https://store.steampowered.com/app/3790450/The_Secret_Of_Greenwood_Isle/) and STOVE. |
 | **Modu Dining** | 2026~ | Live restaurant web service. Next.js, Supabase, LLM pipeline. [modudining.com](https://www.modudining.com) |
 
-<img src="images/demolding.png" width="380" /><br/>
-<sub>**Demolding 3D** — mold-shaping puzzle, hypercasual.</sub>
-
-<img src="images/kgames.jpg" width="130" /><br/>
-<sub>**K-Games 3D** — Korean traditional games in 3D, shipped during the Squid Game surge.</sub>
-
-<img src="images/hell-keeper.png" width="200" /><br/>
-<sub>**Hell Keeper** — draw heroes from a slot, merge them, hold the waves.</sub>
-
-<img src="images/greenwood.png" width="380" /><br/>
-<sub>**The Secret Of Greenwood Isle** — story adventure with branching routes.</sub>
-
-<img src="images/modu-dining.png" width="300" /><br/>
-<sub>**Modu Dining** — QR menu in 8 languages, themed per restaurant.</sub>
+| | |
+|:--:|---|
+| <img src="images/demolding.png" height="90" /> | **Demolding 3D** — mold-shaping puzzle, hypercasual. |
+| <img src="images/kgames.jpg" height="90" /> | **K-Games 3D** — Korean traditional games in 3D, shipped during the Squid Game surge. |
+| <img src="images/hell-keeper.png" height="90" /> | **Hell Keeper** — draw heroes from a slot, merge them, hold the waves. |
+| <img src="images/greenwood.png" height="90" /> | **The Secret Of Greenwood Isle** — story adventure with branching routes. |
+| <img src="images/modu-dining.png" height="90" /> | **Modu Dining** — QR menu in 8 languages, themed per restaurant. |
 
 ## Code
 
