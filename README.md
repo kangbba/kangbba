@@ -25,13 +25,13 @@ Portfolio, including a WebGL game you can play right in the browser: **[develope
 | **The Secret Of Greenwood Isle** | 2025~26 | Solo development, one year. Released on [Steam](https://store.steampowered.com/app/3790450/The_Secret_Of_Greenwood_Isle/) and STOVE. |
 | **Modu Dining** | 2026~ | Live restaurant web service. Next.js, Supabase, LLM pipeline. [modudining.com](https://www.modudining.com) |
 
-| | |
-|:--:|---|
-| <img src="images/demolding.png" height="90" /> | **Demolding 3D** — mold-shaping puzzle, hypercasual. |
-| <img src="images/kgames.jpg" height="90" /> | **K-Games 3D** — Korean traditional games in 3D, shipped during the Squid Game surge. |
-| <img src="images/hell-keeper.png" height="90" /> | **Hell Keeper** — draw heroes from a slot, merge them, hold the waves. |
-| <img src="images/greenwood-steam.png" height="90" /> <img src="images/greenwood.png" height="90" /> <img src="images/greenwood-choice.png" height="90" /> | **The Secret Of Greenwood Isle** — story adventure with branching routes. |
-| <img src="images/modu-dining.png" height="90" /> | **Modu Dining** — QR menu in 8 languages, themed per restaurant. |
+| |
+|:--:|
+| <br/><img src="images/demolding.png" height="150" /><br/><br/>**Demolding 3D** — mold-shaping puzzle, hypercasual.<br/>&nbsp; |
+| <br/><img src="images/kgames.jpg" height="150" /><br/><br/>**K-Games 3D** — Korean traditional games in 3D, shipped during the Squid Game surge.<br/>&nbsp; |
+| <br/><img src="images/hell-keeper.png" height="150" /><br/><br/>**Hell Keeper** — draw heroes from a slot, merge them, hold the waves.<br/>&nbsp; |
+| <br/><img src="images/greenwood-steam.png" height="150" />&nbsp; <img src="images/greenwood.png" height="150" />&nbsp; <img src="images/greenwood-choice.png" height="150" /><br/><br/>**The Secret Of Greenwood Isle** — story adventure with branching routes.<br/>&nbsp; |
+| <br/><img src="images/modu-dining.png" height="150" /><br/><br/>**Modu Dining** — QR menu in 8 languages, themed per restaurant.<br/>&nbsp; |
 
 ## Code
 
