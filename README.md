@@ -29,7 +29,7 @@ Portfolio, including a WebGL game you can play right in the browser: **[develope
 <sub>**Demolding 3D** — mold-shaping puzzle, hypercasual.</sub>
 
 <img src="images/kgames.jpg" width="130" /><br/>
-<sub>**K-Games 3D** — Korean-drama motif runner.</sub>
+<sub>**K-Games 3D** — Korean traditional games in 3D, shipped during the Squid Game surge.</sub>
 
 <img src="images/hell-keeper.png" width="200" /><br/>
 <sub>**Hell Keeper** — draw heroes from a slot, merge them, hold the waves.</sub>
