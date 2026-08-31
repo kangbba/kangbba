@@ -17,12 +17,28 @@ Portfolio, including a WebGL game you can play right in the browser: **[develope
 
 ## Selected work
 
-| | |
-|---|---|
-| <img src="images/greenwood.png" width="300" /> | **The Secret Of Greenwood Isle** · 2025~26<br/>Story adventure, solo development over one year. Released on [Steam](https://store.steampowered.com/app/3790450/The_Secret_Of_Greenwood_Isle/) and STOVE. |
-| <img src="images/modu-dining.png" width="300" /> | **Modu Dining** · 2026~<br/>Live multilingual menu service for restaurants. Next.js, Supabase, LLM translation pipeline. [modudining.com](https://www.modudining.com) |
-| <img src="images/hell-keeper.png" width="300" /> | **Hell Keeper** · 2025<br/>Slot-defense mobile game, solo. Released on ONE Store, [playable in the browser](https://developersayne.dev). |
-| <img src="images/mobile-games.png" width="300" /> | **Publisher titles** · 2019~2025<br/>30+ mobile games under contract. Development lead on Demolding 3D (Homa Games, 2M+ estimated downloads) and K-Games 3D (BoomHits, CPI $0.03). |
+| Project | Year | What it is |
+|---|---|---|
+| **Demolding 3D** | 2020 | Development lead. Published by Homa Games. 2M+ estimated downloads (AppMagic). |
+| **K-Games 3D** | 2021 | Development lead. Published by BoomHits. CPI $0.03 in testing. |
+| **Hell Keeper** | 2025 | Solo. Slot-defense mobile game, released on ONE Store and playable as WebGL. |
+| **The Secret Of Greenwood Isle** | 2025~26 | Solo development, one year. Released on [Steam](https://store.steampowered.com/app/3790450/The_Secret_Of_Greenwood_Isle/) and STOVE. |
+| **Modu Dining** | 2026~ | Live restaurant web service. Next.js, Supabase, LLM pipeline. [modudining.com](https://www.modudining.com) |
+
+<img src="images/demolding.png" width="380" /><br/>
+<sub>**Demolding 3D** — mold-shaping puzzle, hypercasual.</sub>
+
+<img src="images/kgames.jpg" width="130" /><br/>
+<sub>**K-Games 3D** — Korean-drama motif runner.</sub>
+
+<img src="images/hell-keeper.png" width="200" /><br/>
+<sub>**Hell Keeper** — draw heroes from a slot, merge them, hold the waves.</sub>
+
+<img src="images/greenwood.png" width="380" /><br/>
+<sub>**The Secret Of Greenwood Isle** — story adventure with branching routes.</sub>
+
+<img src="images/modu-dining.png" width="300" /><br/>
+<sub>**Modu Dining** — QR menu in 8 languages, themed per restaurant.</sub>
 
 ## Code
 
