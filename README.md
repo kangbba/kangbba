@@ -14,6 +14,16 @@ Game & Software Developer. Unity, mobile, and web. Based in Seoul, working remot
 
 Portfolio, including a WebGL game you can play right in the browser: **[developersayne.dev](https://developersayne.dev)**
 
+<p align="center">
+  <a href="https://store.steampowered.com/app/3790450/The_Secret_Of_Greenwood_Isle/"><img src="images/greenwood.png" height="120" /></a>
+  <a href="https://developersayne.dev"><img src="images/hell-keeper.png" height="120" /></a>
+  <a href="https://www.modudining.com"><img src="images/modu-dining.png" height="120" /></a>
+  <a href="https://developersayne.dev"><img src="images/mobile-games.png" height="120" /></a>
+</p>
+<p align="center">
+  <sub>The Secret Of Greenwood Isle · Hell Keeper · Modu Dining · publisher titles</sub>
+</p>
+
 ## Selected work
 
 | Project | Year | What it is |
