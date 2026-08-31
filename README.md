@@ -8,7 +8,7 @@ Game & Software Developer. Unity, mobile, and web. Based in Seoul, working remot
   - 🇫🇷 Homa Games
   - 🇵🇱 BoomHits
   - 🇺🇸 Lion Studios
-  - 🇰🇷 Supercent
+  - 🇰🇷 Supercent (full-time)
 - Solo-developed **The Secret Of Greenwood Isle**, a story adventure, over one year and released it on Steam and STOVE
 - Currently building and running **Modu Dining**, a live multilingual restaurant menu service with an LLM translation pipeline
 
@@ -30,7 +30,7 @@ Portfolio, including a WebGL game you can play right in the browser: **[develope
 | <img src="images/demolding.png" height="90" /> | **Demolding 3D** — mold-shaping puzzle, hypercasual. |
 | <img src="images/kgames.jpg" height="90" /> | **K-Games 3D** — Korean traditional games in 3D, shipped during the Squid Game surge. |
 | <img src="images/hell-keeper.png" height="90" /> | **Hell Keeper** — draw heroes from a slot, merge them, hold the waves. |
-| <img src="images/greenwood.png" height="90" /> | **The Secret Of Greenwood Isle** — story adventure with branching routes. |
+| <img src="images/greenwood-steam.png" height="90" /> <img src="images/greenwood.png" height="90" /> <img src="images/greenwood-choice.png" height="90" /> | **The Secret Of Greenwood Isle** — story adventure with branching routes. |
 | <img src="images/modu-dining.png" height="90" /> | **Modu Dining** — QR menu in 8 languages, themed per restaurant. |
 
 ## Code
