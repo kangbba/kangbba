@@ -25,6 +25,10 @@ Portfolio, including a WebGL game you can play right in the browser: **[develope
 | **The Secret Of Greenwood Isle** | 2025~26 | Solo development, one year. Released on [Steam](https://store.steampowered.com/app/3790450/The_Secret_Of_Greenwood_Isle/) and STOVE. |
 | **Modu Dining** | 2026~ | Live restaurant web service. Next.js, Supabase, LLM pipeline. [modudining.com](https://www.modudining.com) |
 
+---
+
+### Previews
+
 | |
 |:--:|
 | <br/><img src="images/demolding-1.png" width="380" />&nbsp;<img src="images/demolding-2.png" width="380" /><br/><br/>**Demolding 3D** — mold-shaping puzzle, hypercasual.<br/>&nbsp; |
