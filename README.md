@@ -41,10 +41,10 @@ Portfolio, including a WebGL game you can play right in the browser: **[develope
 
 Most of my shipped work is under publisher contracts or commercial releases, so those sources stay private. The public part lives in these repositories:
 
-- [greenwood-isle-excerpts](https://github.com/kangbba/greenwood-isle-excerpts): story engine, save/restore and the node-graph editor the narrative is authored in, from my Steam release.
-- [hell-keeper-excerpts](https://github.com/kangbba/hell-keeper-excerpts): script source of a released mobile game (ONE Store), art and audio excluded, playable as WebGL on my portfolio site.
-- [bangawer-voice-translator-excerpts](https://github.com/kangbba/bangawer-voice-translator-excerpts): a custom ESP32 translator device with its Flutter app in one repo. ESP-ADF audio pipelines over HFP, a BLE control channel, and the app that drives it.
-- [modu-dining-excerpts](https://github.com/kangbba/modu-dining-excerpts): source excerpts from Modu Dining, the live service above. The menu data model shared by the site, the owner console and the AI pipeline, plus the pipeline's task graph.
+- [hell-keeper-samples](https://github.com/kangbba/hell-keeper-samples): script source of a released mobile game (ONE Store), art and audio excluded, playable as WebGL on my portfolio site.
+- [greenwood-isle-samples](https://github.com/kangbba/greenwood-isle-samples): story engine, save/restore and the node-graph editor the narrative is authored in, from my Steam release.
+- [modu-dining-samples](https://github.com/kangbba/modu-dining-samples): source excerpts from Modu Dining, the live service above. The menu data model shared by the site, the owner console and the AI pipeline, plus the pipeline's task graph.
+- [bangawer-voice-translator-samples](https://github.com/kangbba/bangawer-voice-translator-samples): a custom ESP32 translator device with its Flutter app in one repo. ESP-ADF audio pipelines over HFP, a BLE control channel, and the app that drives it.
 
 ## Stack
 
